@@ -5,7 +5,7 @@ using MonoTouch.ObjCRuntime;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace iOSHV
+namespace HierarchyViewer
 {
     [BaseType(typeof(NSObject))]
     interface iOSHierarchyViewer {
