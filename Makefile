@@ -1,7 +1,3 @@
-XBUILD=/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
-PROJECT_ROOT=$(TARGET)
-PROJECT=$(PROJECT_ROOT)/$(TARGET).xcodeproj
-TARGET=ObjectAL
 TARGET_NAME = iOSHierarchyViewer
 LIB_NAME = libiOSHierarchyViewer_fat
 BTOUCH=/Developer/MonoTouch/usr/bin/btouch
