@@ -47,4 +47,10 @@
       <DependentUpon>libiOSHierarchyViewer_fat.a</DependentUpon>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="AUTHORS" />
+    <None Include="LICENSE" />
+    <None Include="Makefile" />
+    <None Include="README.md" />
+  </ItemGroup>
 </Project>
