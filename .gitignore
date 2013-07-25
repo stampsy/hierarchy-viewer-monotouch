@@ -1,3 +1,4 @@
+*.sln
 bin
 obj
 .DS_Store
